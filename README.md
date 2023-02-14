@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **a Task Manager**
 
-- 🤝 I’m looking for help with **OOP Concept**
-
 - 👨‍💻 All of my projects are available at [https://github.com/GazMorton](https://github.com/GazMorton)
 
 - 📫 How to reach me **gazmorton8@hotmail.com**
