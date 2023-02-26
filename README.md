@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gareth Morton</h1>
-<h3 align="center">Junior Software Developer from Liverpool</h3>
+<h3 align="center">Aspiring Software Developer from Liverpool</h3>
 
 - 🔭 I’m currently working on **an Inventory program**
 
