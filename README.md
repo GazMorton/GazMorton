@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a Task Manager**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GazMorton](https://github.com/GazMorton), please see my pinned projects below!
+please see my pinned projects below!
 
 - 📫 How to reach me **gazmorton8@hotmail.com**
 
