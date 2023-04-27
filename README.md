@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Inventory program**
 
-- 🌱 I’m currently learning **HyperionDev Software Engineering**
+- 🌱 I have completed **HyperionDev Software Engineering** Bootcamp
 
 - 👯 I’m looking to collaborate on **a Task Manager**
 
